@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP2516FD")(type "KiCad")(uri "B:/CAN_TRANSCEIVER/custom sch and fp/ul_MCP25612FD-E-SL/KiCADv6/2023-12-10_11-47-23.kicad_sym")(options "")(descr ""))
+  (lib (name "ATA6565")(type "KiCad")(uri "B:/CAN_TRANSCEIVER/custom sch and fp/ul_ATA6565-GCQW1/KiCADv6/2023-12-10_11-49-10.kicad_sym")(options "")(descr ""))
+)
